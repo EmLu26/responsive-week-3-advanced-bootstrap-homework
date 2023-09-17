@@ -39,7 +39,8 @@ p {
 }
 
 .navbar-brand {
-  margin-left: 200px;
+  display: flex;
+  justify-content: center;
   color: white;
   text-decoration: none;
 }
